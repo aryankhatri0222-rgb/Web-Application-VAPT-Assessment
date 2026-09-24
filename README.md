@@ -1,4 +1,4 @@
-## ⚠️ Confidentiality Notice
+## ⚠️ Confidentiality Notice 
 
 This repository is a sanitized representation of an authorized security
 assessment.
