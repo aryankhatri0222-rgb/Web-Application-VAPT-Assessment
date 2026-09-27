@@ -10,7 +10,7 @@ has intentionally been removed or generalized:
 •⁠  ⁠IP addresses
 •⁠  ⁠Internal hostnames
 •⁠  ⁠Production URLs
-•⁠  ⁠Authentication/session information
+•⁠  ⁠Authentication/session information 
 •⁠  ⁠User/customer information
 •⁠  ⁠API credentials and tokens
 •⁠  ⁠Internal source-code paths
