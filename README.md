@@ -8,7 +8,7 @@ has intentionally been removed or generalized:
 
 •⁠  ⁠Company/domain name 
 •⁠  ⁠IP addresses
-•⁠  ⁠Internal hostnames
+•⁠  ⁠Internal hostnames 
 •⁠  ⁠Production URLs
 •⁠  ⁠Authentication/session information 
 •⁠  ⁠User/customer information
