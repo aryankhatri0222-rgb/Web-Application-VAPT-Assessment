@@ -5,7 +5,7 @@ assessment.
 
 To protect the organization and its infrastructure, the following information
 has intentionally been removed or generalized:
-
+   
 •⁠  ⁠Company/domain name 
 •⁠  ⁠IP addresses
 •⁠  ⁠Internal hostnames 
