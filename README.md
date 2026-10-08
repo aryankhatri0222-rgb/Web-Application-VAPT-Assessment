@@ -4,7 +4,7 @@ This repository is a sanitized representation of an authorized security
 assessment.
     
 To protect the organization and its infrastructure, the following information
-has intentionally been removed or generalized:
+has intentionally been removed or generalized:  
    
 •⁠  ⁠Company/domain name 
 •⁠  ⁠IP addresses
