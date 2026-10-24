@@ -1,7 +1,7 @@
 ## ⚠️ Confidentiality Notice                  
             
 This repository is a sanitized representation of an authorized security.     
-assessment.      
+assessment.        
         
 To protect the organization and its infrastructure, the following information. 
 has intentionally been removed or generalized:  
